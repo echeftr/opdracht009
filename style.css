@@ -1,0 +1,24 @@
+.blogpost { width: 300px; border: 1px solid black;
+            
+        }
+
+   
+
+/*.container {
+    display: flex; or inline-flex 
+    flex-direction: row | row-reverse | column | column-reverse;
+   */
+  /*.container {
+    border: 5px solid #ffcc5c;
+    display: flex;
+    flex-direction: column;
+  }
+
+  .container {
+  border: 5px solid #ffcc5c;
+  display: flex;
+  justify-content: space-around;
+}
+
+/* flex-start flex-end center space-around
+space-between space-evenly */
